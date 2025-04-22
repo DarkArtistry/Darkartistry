@@ -46,8 +46,8 @@
     - Paris, 2023 [HedgeHog Protocol](https://ethglobal.com/showcase/hedgehog-protocol-ku1pt)🏆 Cartesi 3rd Prize 
 
 - Ethereum Singapore + AngelHack (Team KeptSecret) 2023
-    - **Mantle #4**: Best Infrastructure & Tooling Project **(1st Prize)**
-    - **Axelar #1**: Build a DApp that takes advantage of the ability to interact with contracts across multiple chains **(1st Prize)**
+    - **Mantle #4**: Best Infrastructure & Tooling Project **(🏆 1st Prize)**
+    - **Axelar #1**: Build a DApp that takes advantage of the ability to interact with contracts across multiple chains **(🏆 1st Prize)**
         - Referece Link [here](https://angelhack.com/blog/ethereum-singapore-2023-recap/)
         - Project ETH-Kaviar [source code](https://github.com/DarkArtistry/ETH-Kaviar)
 
