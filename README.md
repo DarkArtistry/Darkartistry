@@ -27,6 +27,14 @@
 - ⚡ Fun fact:
     - I am boring
 
+### My Ethereum Address
+[![Ethereum](https://img.shields.io/badge/Ethereum-KernelKennethG.eth-blue?logo=ethereum)](https://etherscan.io/address/0xdeA3c06EEe614bF84e74d505173822236c8Ad135)
+![My Ethereum Wallet](https://raw.githubusercontent.com/DarkArtistry/DarkArtistry/main/myEtherWallet.png)
+
+### My POAP Collections
+
+[![My POAP Collection](https://img.shields.io/badge/POAP-Collection-5A2EF8?style=for-the-badge&logo=ethereum&logoColor=white)](https://app.poap.xyz/scan/0xdea3c06eee614bf84e74d505173822236c8ad135)
+
 ### Hackathons
 
 - EthGlobal
