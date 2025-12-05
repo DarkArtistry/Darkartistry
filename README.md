@@ -58,13 +58,13 @@
     - Singapore, 2024 [ETH_Singapore](https://ethglobal.com/showcase/eth-singapore-r6s8g)🏆 Worldcoin Prize Pool
     - Paris, 2023 [HedgeHog Protocol](https://ethglobal.com/showcase/hedgehog-protocol-ku1pt)🏆 Cartesi 3rd Prize 
 
-- Kesennuma Hackatsuon 2025 (Project ReelDeal)
+- Kesennuma Hackatsuon 2025 (Project ReelDeal - AI + Blockchain, Dsicovery and end to end Fish Auction)
     - **🏆 3rd Prize**
     - Headline of local newspaper article
+    - <img src="https://pbs.twimg.com/media/G3T-tW9awAA-TEy?format=jpg&name=large" alt="Kesennuma Hackathon" width="400">
     - Sources:
         - https://x.com/hackatsuon/status/1977630502250242163?s=46&t=JHqh2CF9dbvuJa4_0sq7fg
         - https://x.com/hackatsuon/status/1978486204778836092?s=20
-        - 
 
 - Ethereum Singapore + AngelHack (Team KeptSecret) 2023
     - **Mantle #4**: Best Infrastructure & Tooling Project **(🏆 1st Prize)**
