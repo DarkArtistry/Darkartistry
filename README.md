@@ -33,7 +33,7 @@
     - He/Him
 - ⚡ Fun fact:
     - I am boring
-    - I went through polkadot blockchain academy.
+    - I went through polkadot blockchain academy. And made contributions to their educational resources.
 
 ### My Ethereum Address
 [![Ethereum](https://img.shields.io/badge/Ethereum-KernelKennethG.eth-blue?logo=ethereum)](https://etherscan.io/address/0xdeA3c06EEe614bF84e74d505173822236c8Ad135)
