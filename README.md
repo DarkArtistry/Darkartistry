@@ -48,7 +48,7 @@
 ### Contributions to Mastering Ethereum 2nd Edition Textbook
 - https://github.com/ethereumbook/ethereumbook/pull/1269 (Advance Cryptography Module)
 - https://github.com/ethereumbook/ethereumbook/pull/1273 (Deep Dive into Transaction Construction)
-- https://github.com/ethereumbook/ethereumbook/pull/1282 (Defi & UniSwap AMM Explanation)
+- https://github.com/ethereumbook/ethereumbook/pull/1282 (Defi & UniSwap AMM Explanation & EIP-7702)
 
 ### Hackathons
 
