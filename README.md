@@ -46,8 +46,9 @@
 [![My POAP Collection](https://img.shields.io/badge/POAP-Collection-5A2EF8?style=for-the-badge&logo=ethereum&logoColor=white)](https://app.poap.xyz/scan/0xdea3c06eee614bf84e74d505173822236c8ad135)
 
 ### Contributions to Mastering Ethereum 2nd Edition Textbook
-- https://github.com/ethereumbook/ethereumbook/pull/1269
-- https://github.com/ethereumbook/ethereumbook/pull/1273
+- https://github.com/ethereumbook/ethereumbook/pull/1269 (Advance Cryptography Module)
+- https://github.com/ethereumbook/ethereumbook/pull/1273 (Deep Dive into Transaction Construction)
+- https://github.com/ethereumbook/ethereumbook/pull/1282 (Defi & UniSwap AMM Explanation)
 
 ### Hackathons
 
