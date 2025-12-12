@@ -67,7 +67,7 @@
         - https://x.com/hackatsuon/status/1977630502250242163?s=46&t=JHqh2CF9dbvuJa4_0sq7fg
         - https://x.com/hackatsuon/status/1978486204778836092?s=20
 
-- Ethereum Singapore + AngelHack (Team KeptSecret) 2023
+- Ethereum Singapore + AngelHack (Team KeptSecret, CROSS-CHAIN PRIVACY TRANSFERS, COMPLIANT TORNADO CASH) 2023
     - **Mantle #4**: Best Infrastructure & Tooling Project **(🏆 1st Prize)**
     - **Axelar #1**: Build a DApp that takes advantage of the ability to interact with contracts across multiple chains **(🏆 1st Prize)**
         - Referece Link [here](https://angelhack.com/blog/ethereum-singapore-2023-recap/)
