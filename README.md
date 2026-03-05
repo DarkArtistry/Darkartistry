@@ -53,7 +53,7 @@
 ### Publisher and Contributor for Circom Syntax Extensions on VSCode Marketplace and VSX-Open
 - [Circom Language Support GitHub](https://github.com/DarkArtistry/vscode-circom)
 - [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=darkartistry.circom-lang)
-- [Open VSX Registry]([https://marketplace.visualstudio.com/items?itemName=darkartistry.circom-lang](https://open-vsx.org/extension/darkartistry/circom-lang))
+- [Open VSX Registry](https://open-vsx.org/extension/darkartistry/circom-lang)
 
 ### Hackathons
 
