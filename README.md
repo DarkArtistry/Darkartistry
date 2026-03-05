@@ -50,6 +50,9 @@
 - https://github.com/ethereumbook/ethereumbook/pull/1273 (Deep Dive into Transaction Construction)
 - https://github.com/ethereumbook/ethereumbook/pull/1282 (Defi & UniSwap AMM Explanation & EIP-7702)
 
+### Publisher and Contributor for Circom Syntax Extensions on VSCode Marketplace and VSX-Open
+- [Circom Language Support](https://github.com/DarkArtistry/vscode-circom)
+
 ### Hackathons
 
 - EthGlobal
