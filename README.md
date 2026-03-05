@@ -51,7 +51,9 @@
 - https://github.com/ethereumbook/ethereumbook/pull/1282 (Defi & UniSwap AMM Explanation & EIP-7702)
 
 ### Publisher and Contributor for Circom Syntax Extensions on VSCode Marketplace and VSX-Open
-- [Circom Language Support](https://github.com/DarkArtistry/vscode-circom)
+- [Circom Language Support GitHub](https://github.com/DarkArtistry/vscode-circom)
+- [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=darkartistry.circom-lang)
+- [Open VSX Registry]([https://marketplace.visualstudio.com/items?itemName=darkartistry.circom-lang](https://open-vsx.org/extension/darkartistry/circom-lang))
 
 ### Hackathons
 
