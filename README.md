@@ -55,6 +55,10 @@
 - [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=darkartistry.circom-lang)
 - [Open VSX Registry](https://open-vsx.org/extension/darkartistry/circom-lang)
 
+### Contributions to RareSkills ZK-Book
+- [Improve readability of the quin selector chapter](https://github.com/RareSkills/zk-book/pull/125)
+- [Improve readability of the quadratic arithmetic program drawing attention to degrees of polynomial](https://github.com/RareSkills/zk-book/pull/127)
+
 ### Hackathons
 
 - EthGlobal
