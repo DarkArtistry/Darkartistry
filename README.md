@@ -61,7 +61,7 @@
 
 ### Hackathons
 - Uniswap Hook Incubator (UHI) 
-    - Cohort 8, 2026: 🏆 Prize Winner (140 submissions 9 prize winners) [MEGAQUANT](https://x.com/AtriumAcademy/status/2037567784952229936?s=20), [Atrium Tweet](https://x.com/AtriumAcademy/status/2037567647475474601?s=20)
+    - Cohort 8, 2026: 🏆 Prize Winner (140 submissions 9 prize winners) [MEGAQUANT](https://x.com/AtriumAcademy/status/2037567784952229936?s=20), [Atrium Tweet](https://x.com/AtriumAcademy/status/2037567647475474601?s=20), [CertOpenSEA](https://opensea.io/item/zora/0xf87F1444b48D75EAe025e64Ab3f4Fc68426B4B37/64), [CertZora](https://explorer.zora.energy/token/0xf87F1444b48D75EAe025e64Ab3f4Fc68426B4B37/instance/64)
 
 - EthGlobal
     - Argentina Buenos Aires, 2025: [MEGA-Quant](https://ethglobal.com/showcase/mega-quant-6bvz2)🏆 1inch Best API Utility, This project was also accepted into Uniswap UHI Incubator in the same hackathon.
