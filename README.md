@@ -45,6 +45,9 @@
 
 [![My POAP Collection](https://img.shields.io/badge/POAP-Collection-5A2EF8?style=for-the-badge&logo=ethereum&logoColor=white)](https://app.poap.xyz/scan/0xdea3c06eee614bf84e74d505173822236c8ad135)
 
+### Contributions to leanEthereum
+- https://github.com/Plonky3/Plonky3/pull/1598 (fix(whir): use unbiased rejection sampling for STIR query indices)
+
 ### Contributions to Mastering Ethereum 2nd Edition Textbook
 - https://github.com/ethereumbook/ethereumbook/pull/1269 (Advance Cryptography Module)
 - https://github.com/ethereumbook/ethereumbook/pull/1273 (Deep Dive into Transaction Construction)
